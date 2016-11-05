@@ -68,7 +68,7 @@ Go ahead and add a few items to the list:
 
 Now when we refresh our browser the items persist. Hooray!
 
-We can confirm whether our data is being persisted to local storage by checking the **Resources** panel in Chrome DevTools and selecting **Local Storage** from the lefthand side:
+We can confirm whether our data is being persisted to local storage by checking the **Resources** panel (or the **Application** panel) in Chrome DevTools and selecting **Local Storage** from the lefthand side:
 
 ![](/assets/img/codelab/07_show_localstorage.png)
 
